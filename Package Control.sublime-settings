@@ -1,0 +1,17 @@
+{
+	"installed_packages":
+	[
+		"DocBlockr",
+		"Git",
+		"GitGutter",
+		"nginx",
+		"Puppet",
+		"SublimeLinter",
+		"SublimeLinter-contrib-puppet",
+		"SublimeLinter-contrib-puppet-lint",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}
