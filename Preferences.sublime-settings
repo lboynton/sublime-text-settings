@@ -11,6 +11,7 @@
 	"use_tab_stops": true,
 	"rulers": [80, 120],
 	"spell_check": true,
+	"dictionary": "Packages/Language - English/en_GB.dic",
 	"highlight_line": true,
 	"show_encoding": true,
 	"show_line_endings": true,
