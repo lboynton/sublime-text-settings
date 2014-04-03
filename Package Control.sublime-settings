@@ -1,19 +1,28 @@
 {
 	"installed_packages":
 	[
+		"AngularJS",
+		"Dictionaries",
 		"DocBlockr",
 		"Git",
 		"GitGutter",
 		"HTML Snippets",
+		"INI",
+		"LESS",
 		"nginx",
+		"Modific",
 		"Puppet",
+		"SCSS",
+		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-contrib-puppet",
 		"SublimeLinter-contrib-puppet-lint",
 		"SublimeLinter-jshint",
+		"SublimeLinter-lua",
 		"SublimeLinter-php",
 		"SublimeLinter-phpcs",
 		"Theme - Soda",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"Xdebug Client"
 	]
 }
